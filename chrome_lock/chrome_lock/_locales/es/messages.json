@@ -1,0 +1,39 @@
+{
+    "full_name":{
+        "message": "Chrome Lock|By @iniozaa._ | Bloquear navegador"
+    },
+    "name": {
+        "message": "Chrome Lock|By @iniozaa._"
+    },
+
+    "motto": {
+        "message": "Bloquear navegador"
+    },
+
+    "settings_updated": {
+        "message": "Ayarlarınız güncellendi ve kaydedildi."
+    },
+
+
+
+    "password": {
+        "message": "Şifre"
+    },
+    "password_settings": {
+        "message": "Şifre Ayarları"
+    },
+    "old_password": {
+        "message": "Eski Şifreniz"
+    },
+
+
+    "save": {
+        "message": "Kaydet"
+    },
+    "update": {
+        "message": "$1 Güncelle $2"
+    },
+    "description":{
+        "message": "Protege tu navegador contra el acceso no autorizado. Bloquea tu navegador fácilmente para mayor seguridad."
+    }
+}

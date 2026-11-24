@@ -1,0 +1,39 @@
+{
+    "full_name":{
+        "message": "Chrome Lock|By @iniozaa._ | Tarayıcını Kilitle"
+    },
+    "name": {
+        "message": "Chrome Lock|By @iniozaa._"
+    },
+
+    "motto": {
+        "message": "Tarayıcıyı Kilitle"
+    },
+
+    "settings_updated": {
+        "message": "Ayarlarınız güncellendi ve kaydedildi."
+    },
+
+
+
+    "password": {
+        "message": "Şifre"
+    },
+    "password_settings": {
+        "message": "Şifre Ayarları"
+    },
+    "old_password": {
+        "message": "Eski Şifreniz"
+    },
+
+
+    "save": {
+        "message": "Kaydet"
+    },
+    "update": {
+        "message": "$1 Güncelle $2"
+    },
+    "description":{
+        "message": "Tarayıcınızı izinsiz erişimlere karşı korumak için önlemler alın. Tarayıcınızı kolayca kilitleyerek güvenliği artırın."
+    }
+}
